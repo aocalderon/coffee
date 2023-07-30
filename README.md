@@ -5,4 +5,4 @@ Check control table [here](https://docs.google.com/spreadsheets/d/1xYMBaU9eLQsv5
 
 Fill out all these fields for every geopackage you create...
 
-![](campos_database.png)
+![](images/campos_database.png)
